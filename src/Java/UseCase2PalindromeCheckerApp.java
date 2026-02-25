@@ -1,4 +1,6 @@
-public class UseCasesPalindromeCheckerApp {
+package Java;
+
+public class UseCase2PalindromeCheckerApp {
 
     public static void main(String[] args) {
         String word = "madam";
